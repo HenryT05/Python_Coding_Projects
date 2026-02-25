@@ -11,7 +11,7 @@ with a focus on Cybersecurity.
 | Project | Description | Difficulty |
 |---|---|---|
 | [Password Generator](./Password-Generator/README.md) | Generates a random strong password based on user input | Beginner |
-| [Port Scanner](./https://github.com/HenryT05/Python_Port_Scanner_Project) | Scans open ports on a target host | 🟡 Intermediate |
+| [Port Scanner](https://github.com/HenryT05/Python_Port_Scanner_Project) | Scans open ports on a target host | Intermediate |
 
 ---
 
