@@ -10,7 +10,7 @@ with a focus on Cybersecurity.
 
 | Project | Description | Difficulty |
 |---|---|---|
-| [Password Generator](./password-generator.md) | Generates a random strong password based on user input | Beginner |
+| [Password Generator](./Password-Generator/README.md) | Generates a random strong password based on user input | Beginner |
 
 ---
 
