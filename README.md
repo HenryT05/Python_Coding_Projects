@@ -8,10 +8,12 @@ with a focus on Cybersecurity.
 
 ## Projects
 
-| Project | Description | Difficulty |
-|---|---|---|
-| [Password Generator](./Password-Generator/README.md) | Generates a random strong password based on user input | Beginner |
-| [Port Scanner](https://github.com/HenryT05/Python_Port_Scanner_Project) | Scans open ports on a target host | Intermediate |
+| Project | Description |
+|---|---|
+| [Password Generator](./Password-Generator/README.md) | Generates a random strong password based on user input | 
+| [Port Scanner](https://github.com/HenryT05/Python_Port_Scanner_Project) | Scans open ports on a target host |
+| [Caesar-Crypto-Tool](./caesar-cipher-tool/README.md) | A command-line cryptography tool built in Python that demonstrates two fundamental security concepts: Caesar Cipher encryption and SHA-256 hashing. |
+
 
 ---
 
@@ -22,5 +24,3 @@ with a focus on Cybersecurity.
 - Apply Python skills to real-world security and geographic data problems
 
 ---
-
-*This repo is a work in progress — more projects coming soon!* 
