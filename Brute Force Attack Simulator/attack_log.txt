@@ -1,0 +1,5 @@
+2026-03-05 21:53:43,100 - ERROR - Error file fake.txt not found
+2026-03-05 21:53:43,100 - INFO - [Attempt] Trying: 123456
+2026-03-05 21:53:43,101 - INFO - [Attempt] Trying: password
+2026-03-05 21:53:43,101 - INFO - [Attempt] Trying: letmein
+2026-03-05 21:53:43,101 - WARNING - [SUCCESS] Password found: letmein
