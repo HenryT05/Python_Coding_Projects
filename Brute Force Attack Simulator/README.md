@@ -39,7 +39,7 @@ understanding of offensive concepts applied ethically.
 ---
 
 ## Project Structure
-
+```
 brute-force-simulator/
 │
 ├── mock_login.py      # Mock authentication system with hashed user DB
@@ -48,15 +48,12 @@ brute-force-simulator/
 ├── wordlist.txt       # Sample password dictionary
 ├── attack_log.txt     # Auto-generated log of all attack attempts
 └── README.md          # Project documentation
-
+```
 ---
 
 ## Usage
 
-1. Clone the repository
-
-git clone https://github.com/HenryT05/Brute Force Attack Simulator.git
-cd brute-force-simulator
+1. Dowload The files
 
 2. Run the simulator
 
@@ -69,12 +66,12 @@ cat attack_log.txt
 ---
 
 ## Sample Output
-
+```
 2026-03-05 21:19:02 - INFO    - [ATTEMPT] Trying: 123456
 2026-03-05 21:19:02 - INFO    - [ATTEMPT] Trying: password
 2026-03-05 21:19:02 - INFO    - [ATTEMPT] Trying: letmein
 2026-03-05 21:19:02 - WARNING - [SUCCESS] Password found: letmein
-
+```
 ---
 
 ## Skills Demonstrated
